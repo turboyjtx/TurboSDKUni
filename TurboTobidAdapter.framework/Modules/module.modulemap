@@ -1,0 +1,6 @@
+framework module TurboTobidAdapter {
+  umbrella header "TurboTobidAdapter.h"
+  export *
+
+  module * { export * }
+}
